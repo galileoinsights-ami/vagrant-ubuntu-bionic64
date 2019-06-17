@@ -24,6 +24,14 @@ Execute the following within the vagrant directory
 vagrant ssh
 ```
 
+## Shutting the machine down
+
+Execute the following within the vagrant directory
+
+```
+vagrant halt
+```
+
 ## Destroying the machine
 
 Execute the following within the vagrant directory
